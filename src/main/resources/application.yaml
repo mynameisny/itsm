@@ -1,0 +1,10 @@
+camunda:
+  bpm:
+    admin-user:
+      first-name: Ning
+      last-name: Yu
+      email: ningyu@cnpc.com.cn
+      id: demo
+      password: demo
+    filter:
+      create: All tasks
